@@ -1,6 +1,6 @@
 # Go Responsive
 
-Responsive boilterplate for Go programming language
+Responsive boilerplate for Go programming language
 
 ## Usage
 
